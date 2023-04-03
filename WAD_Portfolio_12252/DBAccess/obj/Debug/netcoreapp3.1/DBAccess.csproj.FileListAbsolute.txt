@@ -1,0 +1,10 @@
+E:\Users\00012252\Desktop\WAD_Portfolio_12252-main\WAD_Portfolio_12252\DBAccess\bin\Debug\netcoreapp3.1\DBAccess.deps.json
+E:\Users\00012252\Desktop\WAD_Portfolio_12252-main\WAD_Portfolio_12252\DBAccess\bin\Debug\netcoreapp3.1\DBAccess.dll
+E:\Users\00012252\Desktop\WAD_Portfolio_12252-main\WAD_Portfolio_12252\DBAccess\bin\Debug\netcoreapp3.1\DBAccess.pdb
+E:\Users\00012252\Desktop\WAD_Portfolio_12252-main\WAD_Portfolio_12252\DBAccess\obj\Debug\netcoreapp3.1\DBAccess.csproj.AssemblyReference.cache
+E:\Users\00012252\Desktop\WAD_Portfolio_12252-main\WAD_Portfolio_12252\DBAccess\obj\Debug\netcoreapp3.1\DBAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\00012252\Desktop\WAD_Portfolio_12252-main\WAD_Portfolio_12252\DBAccess\obj\Debug\netcoreapp3.1\DBAccess.AssemblyInfoInputs.cache
+E:\Users\00012252\Desktop\WAD_Portfolio_12252-main\WAD_Portfolio_12252\DBAccess\obj\Debug\netcoreapp3.1\DBAccess.AssemblyInfo.cs
+E:\Users\00012252\Desktop\WAD_Portfolio_12252-main\WAD_Portfolio_12252\DBAccess\obj\Debug\netcoreapp3.1\DBAccess.csproj.CoreCompileInputs.cache
+E:\Users\00012252\Desktop\WAD_Portfolio_12252-main\WAD_Portfolio_12252\DBAccess\obj\Debug\netcoreapp3.1\DBAccess.dll
+E:\Users\00012252\Desktop\WAD_Portfolio_12252-main\WAD_Portfolio_12252\DBAccess\obj\Debug\netcoreapp3.1\DBAccess.pdb

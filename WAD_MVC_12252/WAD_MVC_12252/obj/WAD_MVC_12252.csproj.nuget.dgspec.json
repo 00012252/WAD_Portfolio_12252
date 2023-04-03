@@ -1,24 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Downloads\\WAD_Portfolio_12252-main\\WAD_Portfolio_12252-main\\WAD_MVC_12252\\WAD_MVC_12252\\WAD_MVC_12252.csproj": {}
+    "E:\\Users\\00012252\\Desktop\\WAD_Portfolio_12252-main\\WAD_MVC_12252\\WAD_MVC_12252\\WAD_MVC_12252.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Downloads\\WAD_Portfolio_12252-main\\WAD_Portfolio_12252-main\\WAD_MVC_12252\\WAD_MVC_12252\\WAD_MVC_12252.csproj": {
+    "E:\\Users\\00012252\\Desktop\\WAD_Portfolio_12252-main\\WAD_MVC_12252\\WAD_MVC_12252\\WAD_MVC_12252.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Downloads\\WAD_Portfolio_12252-main\\WAD_Portfolio_12252-main\\WAD_MVC_12252\\WAD_MVC_12252\\WAD_MVC_12252.csproj",
+        "projectUniqueName": "E:\\Users\\00012252\\Desktop\\WAD_Portfolio_12252-main\\WAD_MVC_12252\\WAD_MVC_12252\\WAD_MVC_12252.csproj",
         "projectName": "WAD_MVC_12252",
-        "projectPath": "C:\\Users\\User\\Downloads\\WAD_Portfolio_12252-main\\WAD_Portfolio_12252-main\\WAD_MVC_12252\\WAD_MVC_12252\\WAD_MVC_12252.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Downloads\\WAD_Portfolio_12252-main\\WAD_Portfolio_12252-main\\WAD_MVC_12252\\WAD_MVC_12252\\obj\\",
+        "projectPath": "E:\\Users\\00012252\\Desktop\\WAD_Portfolio_12252-main\\WAD_MVC_12252\\WAD_MVC_12252\\WAD_MVC_12252.csproj",
+        "packagesPath": "E:\\Users\\00012252\\.nuget\\packages\\",
+        "outputPath": "E:\\Users\\00012252\\Desktop\\WAD_Portfolio_12252-main\\WAD_MVC_12252\\WAD_MVC_12252\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "E:\\Users\\00012252\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,7 +25,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -45,6 +43,14 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "dependencies": {
+            "Microsoft.AspNet.WebApi.Client": {
+              "target": "Package",
+              "version": "[5.2.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.32, )"
+            },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[3.1.5, )"
@@ -52,6 +58,10 @@
             "Newtonsoft.Json": {
               "target": "Package",
               "version": "[13.0.3, )"
+            },
+            "System.Net.Http": {
+              "target": "Package",
+              "version": "[4.3.4, )"
             }
           },
           "imports": [
@@ -65,6 +75,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.1.32, 3.1.32]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -73,7 +89,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     }

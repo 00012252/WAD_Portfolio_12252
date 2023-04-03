@@ -13,5 +13,9 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\DBAccess\DBAccess.csproj" />
+  </ItemGroup>
+
 
 </Project>
